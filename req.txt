@@ -1,0 +1,17 @@
+npm init
+npm install express mongoose dotenv bcrypt jsonwebtoken
+
+chmod +x /Users/sumitkumar/Desktop/Mern-Elearning-main/server/node_modules/.bin/nodemon
+rm -rf node_modules package-lock.json
+npm install
+npm install -g nodemon
+npm run dev
+npm i multer
+npm i uuid
+
+for frontend
+
+npm create vite@latest
+npm install
+npm i react-router-dom react-icons
+npm run dev
